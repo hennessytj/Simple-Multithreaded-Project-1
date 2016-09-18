@@ -1,0 +1,95 @@
+2 threads go to work!
+---------------------------------------
+Thread 1 = 1
+Current sum = 1
+Thread 2 = 3
+Current sum = 4
+---------------------------------------
+Final sum = 4
+
+5 threads go to work!
+---------------------------------------
+Thread 1 = 1
+Current sum = 1
+Thread 2 = 3
+Current sum = 4
+Thread 3 = 6
+Current sum = 10
+Thread 4 = 10
+Current sum = 20
+Thread 5 = 120
+Current sum = 140
+---------------------------------------
+Final sum = 140
+
+6 threads go to work!
+---------------------------------------
+Thread 1 = 1
+Current sum = 1
+Thread 2 = 3
+Current sum = 4
+Thread 3 = 6
+Current sum = 10
+Thread 4 = 10
+Current sum = 20
+Thread 5 = 120
+Current sum = 140
+Thread 6 = 21
+Current sum = 161
+---------------------------------------
+Final sum = 161
+
+10 threads go to work!
+---------------------------------------
+Thread 1 = 1
+Current sum = 1
+Thread 2 = 3
+Current sum = 4
+Thread 3 = 6
+Current sum = 10
+Thread 4 = 10
+Current sum = 20
+Thread 5 = 120
+Current sum = 140
+Thread 6 = 21
+Current sum = 161
+Thread 7 = 5040
+Current sum = 5201
+Thread 8 = 36
+Current sum = 5237
+Thread 9 = 362880
+Current sum = 368117
+Thread 10 = 55
+Current sum = 368172
+---------------------------------------
+Final sum = 368172
+
+12 threads go to work!
+---------------------------------------
+Thread 1 = 1
+Current sum = 1
+Thread 2 = 3
+Current sum = 4
+Thread 3 = 6
+Current sum = 10
+Thread 4 = 10
+Current sum = 20
+Thread 5 = 120
+Current sum = 140
+Thread 6 = 21
+Current sum = 161
+Thread 7 = 5040
+Current sum = 5201
+Thread 8 = 36
+Current sum = 5237
+Thread 9 = 362880
+Current sum = 368117
+Thread 10 = 55
+Current sum = 368172
+Thread 11 = 39916800
+Current sum = 40284972
+Thread 12 = 78
+Current sum = 40285050
+---------------------------------------
+Final sum = 40285050
+
